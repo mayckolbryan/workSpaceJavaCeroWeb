@@ -1,0 +1,10 @@
+Profesor: Henry Mendoza Puerta
+Correo: jw@mitocodenetwork.com
+
+- DTO
+
+COMANDOS MAVEN:
+	-mvn compile		//Compila el proyecto
+	-mvn package		//Empaqueta el proyecto
+	-mvn install		//Empaqueta el proyecto y lo distribuye en el .m2 para que lo puedan reutilizar en un ambiente en red de Desarrollo.
+	-mvn clean		//Limpia el proyecto
