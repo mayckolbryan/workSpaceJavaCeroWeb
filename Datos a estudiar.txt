@@ -8,3 +8,5 @@ COMANDOS MAVEN:
 	-mvn package		//Empaqueta el proyecto
 	-mvn install		//Empaqueta el proyecto y lo distribuye en el .m2 para que lo puedan reutilizar en un ambiente en red de Desarrollo.
 	-mvn clean		//Limpia el proyecto
+
+link: http://fullengineeringbook1.blogspot.com/2017/07/introduccion-los-patrones-diseno-oscar-blancarte.html
